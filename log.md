@@ -64,7 +64,7 @@ python -m virtualenv [tên_project]
 
 Đối với mọi terminal mới (tức là khi mở lên lại) cần phải activate virtualenv trước.
 ```
-kivy_venv\Scripts\activate
+tên_project\Scripts\activate
 ```
 Sau khi activate xong nó sẽ hiện thị con trỏ CLI có `(tên_project)` ở phía trước
 
